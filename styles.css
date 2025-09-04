@@ -172,7 +172,7 @@ HIGHLIGHTS
     position: absolute;
     width: 101vw;
     height: 12vw;
-    top: 1px;
+    bottom: 1px;
     left: 0;
     z-index: 1;
     background-size: cover;
